@@ -1,2 +1,3 @@
 # Implementasi-Interpolasi_MetodeNumerik_NajlaFairuz
 Implementasi Interpolasi_Metode Numerik Kelas C
+Najla Fairuz Azzahra 21120122140110
